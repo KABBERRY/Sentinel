@@ -11,17 +11,17 @@ Use at your own risk, it has been compiled exactly as the Github repo says
 
 ## Before running it
 
-**1.** Make sure you are running v0.12.2.1
+**1.** Make sure you are running v1.1.0
 
 **2.** Close your wallet
 
 **3.** Go to primestonecore folder and delete "mncache.dat" and "mnpayments.dat"
 
 **4.** Make sure your "primestone.conf" contains, at least, the following data:
-rpcuser=someuser
-rpcpassword=somepass
+rpcuser=myrpcuser
+rpcpassword=myrpcpass
 server=1
-rpcport=9918
+rpcport=19984
 rpcconnect=127.0.0.1
 
 Try to make rcpuser and rpcpassword hard to guess, you won't need to remember/use them for anything else, so feel free to smash the keyboard
@@ -66,7 +66,7 @@ If it doesn't work, create an *Issue* with detailed explanations
 
 ## Usage
 
-Pick the appropiate file from [https://github.com/ZonnCash/sentinel/releases](Releases)
+Pick the appropiate file from [https://github.com/PrimeStonecoin/Sentinel/releases](Releases)
 
 Open file `sentinel.conf` and change `primestone_conf` to point to your primestone configuration file
 
