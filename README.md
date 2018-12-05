@@ -4,7 +4,7 @@
 
 Please test it and consider it to be a **beta**, something might fail (I don't have primestone in Windows).
 
-Pick an executable (either win/lin) from https://github.com/ZonnCash/sentinel/releases
+Pick an executable (either win/lin) from https://github.com/Primestonecoin/Sentinel
 Just for reference, sentinel-win64 virustotal (3/67): https://www.virustotal.com/es/file/3a65c0df1fb89607531d8c02bb2a3070f1c39f555944d118c67d8ee616be5b18/analysis/1510697796/
 
 Use at your own risk, it has been compiled exactly as the Github repo says
