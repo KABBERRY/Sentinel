@@ -66,7 +66,7 @@ If it doesn't work, create an *Issue* with detailed explanations
 
 ## Usage
 
-Pick the appropiate file from [https://github.com/PrimeStonecoin/Sentinel/releases](Releases)
+Pick the appropiate file from https://github.com/Primestonecoin/Sentinel/releases
 
 Open file `sentinel.conf` and change `primestone_conf` to point to your primestone configuration file
 
